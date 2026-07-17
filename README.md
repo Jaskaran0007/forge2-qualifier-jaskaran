@@ -107,11 +107,11 @@ See `openclaw.json` and `.env.example` for configuration details.
 
 Frontend:
 
-https://forge2-qualifier-prabhmeet.vercel.app/
+https://forge2-qualifier-jaskaran.vercel.app/
 
 Backend API:
 
-https://forge2-1.onrender.com
+https://forge2-qualifier-jaskaran.onrender.com/
 
 ## Repository Structure
 
